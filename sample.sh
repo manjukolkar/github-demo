@@ -4,4 +4,10 @@ read -p "enter first number" n3
 if [ $n1 -gt $n2] && [ n1 -gt $n3 ]
 then
   echo "$n1 biggest number in the list"
+elif [ $n2 -gt $n3 ]
+then
+  echo "$n2  biggest number"
+else
+  echo " $n3 is biggest number"
+fi
   
