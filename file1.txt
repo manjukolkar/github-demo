@@ -1,2 +1,0 @@
- Git and GitHub is often used with commands like git push, git pull, or git clone.
-
